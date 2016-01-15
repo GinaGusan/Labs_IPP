@@ -1,6 +1,6 @@
 # Laboratory work number 2
 ----
-This laboratory work was intended for the implementation of  model of oAuth system according to the prototype and written tests. The application was developed in Django and needs some basic steps to be executed in order to test the functionality:
+This laboratory work was intended for the implementation of  model of oAuth system according to the prototype and written tests. The application was developed in Django Framework and needs some basic steps to be executed in order to test the functionality:
 
 1. run the server from terminal
 2. go on `http://localhost:8000/register` for registration purpose

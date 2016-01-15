@@ -16,6 +16,7 @@ For registration, user must specify:
 4. app_id
 
 For login, user must specify:
+
 1. email
 3. password
 4. app_id

@@ -11,16 +11,11 @@ This laboratory work was intended for the implementation of  model of oAuth syst
 For registration, user must specify: 
 
 1. email
- 
 2. name, surname
-
 3. password
-
 4. app_id
 
 For login, user must specify:
 1. email
-
 3. password
-
 4. app_id

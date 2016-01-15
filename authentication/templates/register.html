@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+    <form method="POST">
+        <input name="name_surname" id="id_name_surname" placeholder="Name Surname" type="text"/>
+        <br/>
+        <input name="email" id="id_email" placeholder="email" type="text"/>
+        <br/>
+        <input name="password" id="id_password" placeholder="password" type="password"/>
+        <br/>
+        <input name="app_id" id="id_app" placeholder="app is" type="text"/>
+        <br/>
+        <input type="submit" value="OK">
+        {% csrf_token %}
+    </form>
+</body>
+</html>

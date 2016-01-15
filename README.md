@@ -1,6 +1,8 @@
 # Laboratory work number 1
 -------
-##Functional requirements of the oAuth system:
+The laboratory work was executed using Django Framework.
+
+###Functional requirements of the oAuth implemented system:
 1. user registration
 2. user login
 3. data confidentiality

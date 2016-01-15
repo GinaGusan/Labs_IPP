@@ -1,6 +1,6 @@
-## Laboratory work number 1
+# Laboratory work number 1
 -------
-#Functional requirements of the oAuth system:
+##Functional requirements of the oAuth system:
 1. user registration
 2. user login
 3. data confidentiality
